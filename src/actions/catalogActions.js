@@ -4,7 +4,7 @@ import axios from "axios";
 export function getData(payload) {
   return function(dispatch) {
     dispatch({ type: FETCH_ITEMS });
-    axios.get("https://api.myjson.com/bins/19dvvv")
+    axios.get("https://api.myjson.com/bins/yg2p1")
       .then((response) => {
         dispatch({type: FETCH_ITEMS_FULFILLED, payload: response.data})
       })
