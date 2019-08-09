@@ -1,1 +1,44 @@
-[{"productImage":"http://via.placeholder.com/180?text=HiSpeed-Tonic","brandName":"Acme","productName":"Hi-Speed Tonic","packageDetail":"500ml","price":1000},{"productImage":"http://via.placeholder.com/180?text=Iron+Pellets","brandName":"AcmeX","productName":"Iron Pellets","packageDetail":"10 units","price":1500},{"productImage":"http://via.placeholder.com/180?text=Invisible+Paint","brandName":"AcmeIN","productName":"Invisible Paint","packageDetail":"1000ml","price":2000},{"productImage":"http://via.placeholder.com/180?text=Snow+Machine","brandName":"Acme","productName":"Snow Machine","packageDetail":"1 unit","price":5000},{"productImage":"http://via.placeholder.com/180?text=Badger+Trap","brandName":"AcmeX","productName":"Badger Trap","packageDetail":"1 unit","price":500},{"productImage":"http://via.placeholder.com/180?text=Spring+Boots","brandName":"AcmeUK","productName":"Spring Boots","packageDetail":"1 pair","price":3500}]
+[
+  {
+    "productImage": "http://via.placeholder.com/180?text=Naga+Merah+Super",
+    "brandName": "Tanihub",
+    "productName": "Naga Merah Super",
+    "productWeight": "1Kg",
+    "price": 12000
+  },
+  {
+    "productImage": "http://via.placeholder.com/180?text=Tomat+Merah+Segar",
+    "brandName": "Tanihub",
+    "productName": "Tomat Merah Segar",
+    "productWeight": "1Kg",
+    "price": 10000
+  },
+  {
+    "productImage": "http://via.placeholder.com/180?text=Wortel+Cerah",
+    "brandName": "Tanihub",
+    "productName": "Wortel Cerah",
+    "productWeight": "1Kg",
+    "price": 20000
+  },
+  {
+    "productImage": "http://via.placeholder.com/180?text=Bayam+Merah+Segar",
+    "brandName": "Tanihub",
+    "productName": "Bayam Merah Segar",
+    "productWeight": "1Kg",
+    "price": 10000
+  },
+  {
+    "productImage": "http://via.placeholder.com/180?text=Buah+Bit+Segar",
+    "brandName": "Tanihub",
+    "productName": "Buah Bit Segar",
+    "productWeight": "1Kg",
+    "price": 12000
+  },
+  {
+    "productImage": "http://via.placeholder.com/180?text=Kentang+Segar",
+    "brandName": "Tanihub",
+    "productName": "Kentang Segar",
+    "productWeight": "1Kg",
+    "price": 15000
+  }
+]
